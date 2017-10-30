@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="about_main">
+
+      <h1 class="text-center">This template is built with <i class="fa fa-heart"></i> by</h1>
+      <div class="about_cards">
+        <ul class="list-inline text-center">
+          <% ["Reka85", "backseo"].each do |gh_username| %>
+            <li>
+            <%= image_tag "https://kitt.lewagon.com/placeholder/users/#{gh_username}", class: "avatar img-circle" %>
+            <h4><%= gh_username %></h4>
+            </li>
+          <% end %>
+        </ul>
+    </div>
+
+  </div>
+</div>
+
+
+

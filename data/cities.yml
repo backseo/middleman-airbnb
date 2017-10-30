@@ -1,0 +1,10 @@
+- berlin:
+  adress: "96 ein Strasse "
+  img: "https://kitt.lewagon.com/placeholder/cities/berlin.jpg"
+  lat: 52.507090
+  long: 13.391419
+- paris:
+  adress: "106 rue de la Paix"
+  img: "https://kitt.lewagon.com/placeholder/cities/paris.jpg"
+  lat: 48.864848
+  long: 2.379853
